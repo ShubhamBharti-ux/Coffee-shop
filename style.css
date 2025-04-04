@@ -377,3 +377,11 @@ nav ul li a.active {
 #backToTop:hover {
     background-color: #4e3224;
 }
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  margin-right: auto;
+}
+

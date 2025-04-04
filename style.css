@@ -52,7 +52,9 @@ nav ul li a.active {
   font-weight: bold;
   padding-bottom: 0.25rem;
 }
-
+logo{
+  text-align: left:
+}
 /* Homepage Logo */
 .homepage-logo {
   text-align: left;
